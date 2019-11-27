@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0004CEF2-08D7-7309-888C-61F068AEB06C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Charge",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
